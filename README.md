@@ -79,4 +79,8 @@ Slack channel or attend the [Client Instrumentation SIG meeting](https://github.
 - [Jared Freeze](https://github.com/overbalance), Embrace (Palo Alto Networks)
 - [Martin Kuba](https://github.com/martinkuba), Grafana
 
+## Approvers
+
+- [Jason Plumb](https://github.com/breedx-splk), Splunk (Cisco)
+
 For more information about the maintainer role, see the [community repository](https://github.com/open-telemetry/community/blob/main/guides/contributor/membership.md#maintainer).
